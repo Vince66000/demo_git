@@ -5,3 +5,5 @@ coucou laurent, t'as vu mon super tricks???? =) =) =)
 Et maintenant on modifie depuis gitHub.
 
 Puis à nouveau à partir de la console.
+
+Encore une petite modif locale
